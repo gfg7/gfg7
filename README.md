@@ -15,10 +15,10 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<div>
-  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=gfg7&layout=compact&bg_color=25,B53BC4,EF8B59&title_color=fff&text_color=fff" alt="github stats"/>
+<div style="display:flex; width:590px" >
+  <img src="https://github-readme-stats.vercel.app/api?username=gfg7&layout=compact&bg_color=25,B53BC4,EF8B59&title_color=fff&text_color=fff" alt="github stats"/>
 
-  <img height="200" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfg7&show_icons=true&count_private=false&layout=compact&bg_color=85,EF8B59,B53BC4&title_color=fff&text_color=fff&hide=css,scss,html"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gfg7&show_icons=true&count_private=false&layout=compact&bg_color=85,EF8B59,B53BC4&title_color=fff&text_color=fff&hide=css,scss,html"/>
 </div>
 
 ## Стек :hammer:
