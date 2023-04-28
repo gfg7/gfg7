@@ -18,9 +18,9 @@
 
 <div>
 <div width="100%" align="center">
-     <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=gfg7&bg_color=25,B53BC4,EF8B59&title_color=fff&text_color=fff" alt="github stats"/>
+     <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=gfg7&bg_color=25,B53BC4,EF8B59&title_color=fff&text_color=fff" alt="github stats"/>
 
-  <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfg7&show_icons=true&count_private=false&layout=compact&bg_color=85,EF8B59,B53BC4&title_color=fff&text_color=fff&hide=css,scss,html"/>
+  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gfg7&show_icons=true&count_private=false&layout=compact&bg_color=85,EF8B59,B53BC4&title_color=fff&text_color=fff&hide=css,scss,html"/>
   </div>
   
 <br/><br/><br/><br/><br/><br/><br/><br/> <!--#iamnotfrontend-->
