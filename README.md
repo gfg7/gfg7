@@ -1,5 +1,3 @@
-<div style="width:743px">
-  
 <img style="border-width: thin;
     border-color: white;
     border-style: solid;" src="https://github.com/gfg7/gfg7/blob/main/gfg7-hello-world.gif"/>
@@ -18,18 +16,13 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
 <div>
 <div width="100%" align="center">
      <img align="left" height="195px" src="https://github-readme-stats-gfg7.vercel.app/api?username=gfg7&bg_color=25,B53BC4,EF8B59&title_color=fff&text_color=fff&cache_seconds=14400" alt="github stats"/>
 
   <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfg7&show_icons=true&count_private=false&layout=compact&bg_color=70,EF8B59,B53BC4&title_color=fff&text_color=fff&hide=css,scss,html&cache_seconds=14400"/>
   </div>
-  
 <br/><br/><br/><br/><br/><br/><br/><br/><br/> <!--#iamnotfrontend-->
-
-  <img align="center" src="https://streak-stats.demolab.com/?user=gfg7&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=740&background=60%2CEF8B59%2CB53BC4&border=FFFFFF&stroke=FFFFFF&fire=FFD943"/>
-  
   <div width="100%" align="left">
 
   ## Стек :hammer:
@@ -40,9 +33,6 @@
   - Docker
 
   В планах - изучить взаимодействие с MQ, с которыми работала в НТ, на C# и открыть для себя новые в использовании NoSQL БД
+  </div>
 </div>
-  
-</div>
-
-  
-</div>
+  <img align="center" style="width:-webkit-fill-available" src="https://streak-stats.demolab.com/?user=gfg7&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1024&background=60%2CEF8B59%2CB53BC4&border=FFFFFF&stroke=FFFFFF&fire=FFD943"/>
